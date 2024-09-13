@@ -1,6 +1,6 @@
 
 # Alexander J. Jackson
-# format_print.py 
+# print_grid.py 
 
 comb_shape = "+--+--+--+\n|  |  |  |"
 bottom_line = "+--+--+--+"
